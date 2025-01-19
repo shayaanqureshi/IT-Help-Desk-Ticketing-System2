@@ -17,18 +17,14 @@ Technology/Applications/Services Used:
 - MySQL (for database management)
 - PHP (for backend development)
 
-Media:
-- Ticket Submission Form: 
-![Ticket Submission Form](images/ticket_submission_form.png)
-  
-Admin Dashboard: 
-![Admin Dashboard](images/admin_dashboard.png)
-
-Project Walkthrough Video:  
-[Watch the walkthrough video](video/project_walkthrough.mp4)
 
 ## Demonstration:
 - Step 1: A user submits a support ticket via the frontend interface.
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.osticket.com%2Fen%2Flatest%2FUser%2FTicket%2FOpen%2520A%2520Ticket.html&psig=AOvVaw3NjbfZ8QGqhxO9aSomhz-V&ust=1737331730281000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC0wZe_gIsDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/76c01b23-5acc-43da-9475-dc2e9a8c602e)
+
+
+
 - Step 2: Admin receives the ticket in the backend dashboard, assigns a technician, and sets a priority.
 - Step 3: Technician updates the ticket with resolution details, and the user is notified once the issue is resolved.
 - Step 4: The ticket is marked as closed after user confirmation.
